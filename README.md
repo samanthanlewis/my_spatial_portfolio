@@ -1,1 +1,1 @@
-# my_spatial_portfolio
+# spatial_portfolio
